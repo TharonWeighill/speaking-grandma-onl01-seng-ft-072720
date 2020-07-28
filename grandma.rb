@@ -7,4 +7,4 @@ def speak_to_grandma(phrase)
   "I LOVE YOU PUMPKIN"
 end  
 
-speak_to_grandma ""
+speak_to_grandma "I LOVE YOU GRANDMA"
