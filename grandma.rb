@@ -11,3 +11,11 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+
+def speak_to_grandma
+    if "I LOVE YOU GRANDMA!".capitalize > ""
+      put "I Love you too"
+    elsif "No, Not since 1983!"
+    else "I love you too Pumpkkin"
+end  
